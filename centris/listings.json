@@ -1,0 +1,4922 @@
+[
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "6585, Rue  Lacordaire",
+        "features": "3 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4517, Rue  Franchère",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "7186, Chemin de la Côte-Saint-Luc",
+        "features": "2 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "195, Rue  Peel, app. 803",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "7091, Rue  Clark, app. 1",
+        "features": "2 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1444, Rue  Saint-Mathieu, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Crescent, app. 607",
+        "features": "1 beds,None baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "6850, boulevard  Henri-Bourassa Ouest, app. 204",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5150, Rue  Buchan, app. 3207",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4205, Rue  Saint-Denis, app. 211",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "2823, Rue  Dandurand",
+        "features": "2 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4730, Chemin  Queen-Mary, app. 3",
+        "features": "2 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3495, Rue de la Montagne, app. 802",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1220, Rue  Crescent, app. 801",
+        "features": "1 beds,None baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2000, boulevard  René-Lévesque Ouest, app. 406",
+        "features": "1 beds,1 baths",
+        "price": "$1490/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2130, Rue  Laforce, app. 212",
+        "features": "1 beds,1 baths",
+        "price": "$1270/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2250, Avenue  Papineau, app. 306",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3622, Rue  Clark, app. #1",
+        "features": "1 beds,None baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7700, Rue  Bouvier, app. 207",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "98, Rue  Charlotte, app. 356",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "300, Rue  Ann, app. 102",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6740, boulevard  Décarie, app. 211",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5833, Chemin de la Côte-des-Neiges, app. 401",
+        "features": "1 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "550, Avenue  Gonthier",
+        "features": "1 beds,1 baths",
+        "price": "$800/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1235, Rue  Bishop, app. 607",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1150, Rue  Saint-Denis, app. 802",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "6220, Rue  Hamilton, app. 4",
+        "features": "1 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "4600B, Rue  Saint-Antoine Ouest",
+        "features": "2 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2238, Rue du Souvenir, app. 203",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "4970, Rue  Sainte-Catherine Est, app. 306",
+        "features": "2 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5400, Avenue  Randall, app. 15,10",
+        "features": "2 beds,1 baths",
+        "price": "$1280/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4980, Rue  Buchan, app. 610",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "235, Rue  Peel, app. 1510A",
+        "features": "1 beds,None baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1913, Rue  Plessis, app. APP. 8",
+        "features": "2 beds,1 baths",
+        "price": "$1385/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1218, Rue du Fort, app. 1",
+        "features": "None beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4599, Avenue  Clanranald, app. 513",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "8099, Rue  Simonne, app. A",
+        "features": "1 beds,1 baths",
+        "price": "$825/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "780, Rue  Gordon, app. 203",
+        "features": "2 beds,2 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "1300, boulevard  Alexis-Nihon, app. A214",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7609A, Rue  Ravary",
+        "features": "1 beds,1 baths",
+        "price": "$750/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5350, Avenue  Patricia, app. 2",
+        "features": "3 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "288, Rue  Ann, app. 512",
+        "features": "1 beds,1 baths",
+        "price": "$1480/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1450, boulevard  René-Lévesque Ouest, app. 1308",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "195, Rue  Peel, app. 507",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Anjou)",
+        "address": "7012, Avenue  Mousseau",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "9045, Rue  Verville",
+        "features": "3 beds,2 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "555, boulevard  René-Lévesque Est, app. ST-6",
+        "features": "1 beds,None baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1061, Rue  Saint-Alexandre, app. 708",
+        "features": "1 beds,None baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1455, Rue  Towers, app. 101",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3468, Rue  Drummond, app. 604",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Pierrefonds-Roxboro)",
+        "address": "5093, Rue  Perron",
+        "features": "3 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1740, Rue  Saint-Patrick, app. 306",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2210, Avenue  Regent, app. 3",
+        "features": "1 beds,1 baths",
+        "price": "$850/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1239, Rue  Drummond, app. 508",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "9809, Rue  Jeannette",
+        "features": "3 beds,1 baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (Pierrefonds-Roxboro)",
+        "address": "13666, boulevard  Gouin Ouest",
+        "features": "3 beds,2 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "4241, Rue de Bellechasse",
+        "features": "1 beds,1 baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1235, Rue  Bishop, app. 721",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1020, Rue  De Bleury, app. 314",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "4215, Rue  De Chambly, app. A02",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "89, 17e Avenue",
+        "features": "3 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "9242, Rue  Lajeunesse",
+        "features": "2 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1299, Rue de la Visitation, app. A",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2021, Avenue  Atwater, app. 2104",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "950, Rue  Notre-Dame Ouest, app. 641",
+        "features": "1 beds,None baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "1647, Avenue  Jeanne-d'Arc",
+        "features": "1 beds,1 baths",
+        "price": "$1095/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "467, Rue de Magog",
+        "features": "3 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "1341, Rue  Valiquette",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5300, Place  Garland, app. 607",
+        "features": "2 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "4280, Rue  Bélanger, app. 5",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1557, Rue  Leprohon",
+        "features": "2 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "185, Rue du Séminaire, app. 705",
+        "features": "1 beds,1 baths",
+        "price": "$1390/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "8801, Avenue  Henri-Julien",
+        "features": "1 beds,1 baths",
+        "price": "$1195/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3750, Avenue  Laval, app. 1",
+        "features": "1 beds,1 baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "9072, Rue  Descartes",
+        "features": "2 beds,1 baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (L'Île-Bizard/Sainte-Geneviève)",
+        "address": "637, Montée de l'Église",
+        "features": "2 beds,2 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "481, Avenue  J.-Alphonse-Lachance",
+        "features": "2 beds,2 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6250, Avenue  Lennox, app. 107",
+        "features": "1 beds,1 baths",
+        "price": "$1485/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "350, Rue  Eleanor, app. 427",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2118, Rue  Saint-Dominique, app. 210",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2000, boulevard  René-Lévesque Ouest, app. 1104",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1556, Rue  Saint-Antoine Ouest, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Montréal-Nord)",
+        "address": "10610, Avenue  Balzac",
+        "features": "1 beds,1 baths",
+        "price": "$675/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2020, boulevard  René-Lévesque Ouest, app. 505",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1050, Avenue  Amesbury, app. 727",
+        "features": "1 beds,None baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "7731, Rue  Louis-Quilico, app. 204",
+        "features": "2 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "350, boulevard  De Maisonneuve Ouest, app. SS",
+        "features": "None beds,None baths",
+        "price": "$250/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "11980A, boulevard  Taylor",
+        "features": "1 beds,1 baths",
+        "price": "$800/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "6371, Rue  Dumas",
+        "features": "3 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3750, boulevard  Saint-Laurent, app. 1",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Alexandre, app. 119",
+        "features": "1 beds,1 baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7000, Rue  Allard, app. 617",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "1243, Rue  Chameran",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 4A",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1815, Rue  Ontario Est",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "224A, Rue  Jean-Talon Est, app. 301",
+        "features": "2 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4980, Rue  Buchan, app. 413",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "5627, Rue  Bannantyne",
+        "features": "2 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1085, Rue  Smith, app. 402",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "1801, Rue  Viola-Desmond, app. 429",
+        "features": "1 beds,2 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5150, Rue  Buchan, app. 912",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2090, Rue  Wellington, app. 2",
+        "features": "3 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6740, boulevard  Décarie, app. 204",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "4372, Rue  Notre-Dame Ouest, app. B",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Outremont)",
+        "address": "811, Avenue  Davaar, app. 15",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "150, Rue  Sherbrooke Est, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "1700G, Rue  Viola-Desmond",
+        "features": "None beds,None baths",
+        "price": "$150/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3750, boulevard  Saint-Laurent, app. 3",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "2106, Rue  Robidoux",
+        "features": "2 beds,1 baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "98, Rue  Charlotte, app. 766",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "751, Rue  Saint-Rémi, app. 114",
+        "features": "1 beds,2 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "4991, Rue de Paisley, app. 7",
+        "features": "1 beds,1 baths",
+        "price": "$750/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2000, boulevard  René-Lévesque Ouest, app. 903",
+        "features": "1 beds,1 baths",
+        "price": "$1399/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4261, Rue  De La Roche, app. 7",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "174 - A, Rue  Beaulieu (Sainte-Geneviève)",
+        "address": "174 - A, Rue  Beaulieu (Sainte-Geneviève)",
+        "features": "1 beds,1 baths",
+        "price": "$1380/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2341, Rue  Hogan",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "825, boulevard  René-Lévesque Est, app. 412",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "105, 11e Avenue",
+        "features": "2 beds,1 baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "7143, Rue  Briand",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6740, boulevard  Décarie, app. 511",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1235, Rue  Bishop, app. 621",
+        "features": "1 beds,1 baths",
+        "price": "$1390/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "235, Rue  Peel, app. 1417A",
+        "features": "1 beds,None baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4730, Chemin  Queen-Mary, app. 5",
+        "features": "1 beds,1 baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "3949, Rue  Lanouette, app. 2",
+        "features": "2 beds,1 baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "2251, Rue  Rachel Est",
+        "features": "3 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6740, boulevard  Décarie, app. 403",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "315, Rue  Richmond, app. 305",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2105, Rue  Saint-Urbain",
+        "features": "2 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1390, Rue du Fort, app. 1608",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "960, Avenue  Sainte-Croix, app. 105B",
+        "features": "1 beds,1 baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4580, Chemin  Queen-Mary, app. 409",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3636, Rue  Clark",
+        "features": "1 beds,None baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "551S, Rue de la Montagne",
+        "features": "None beds,None baths",
+        "price": "$180/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "8220, Rue  Birnam, app. 4",
+        "features": "3 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3441, Rue  Frontenac, app. 2",
+        "features": "1 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "705, Rue  William, app. 1110",
+        "features": "1 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "5995, Rue de Toulouse",
+        "features": "4 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5161, Chemin de la Côte-des-Neiges, app. 1",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "address": "7881, Avenue  Salomon-Marion, app. 2",
+        "features": "1 beds,1 baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "3045, Rue  Cousineau, app. 2",
+        "features": "2 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4648, Rue  De Bullion",
+        "features": "2 beds,1 baths",
+        "price": "$1490/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1228, Rue des Bassins, app. 903",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "1548 - 1556, Rue  De Salaberry, app. 1554",
+        "features": "3 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Crescent, app. 201",
+        "features": "1 beds,1 baths",
+        "price": "$1380/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "960, Avenue  Sainte-Croix, app. 106B",
+        "features": "1 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1197, Rue  Ropery, app. 3",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5265, Avenue de Courtrai, app. 603",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1800, boulevard  René-Lévesque Ouest, app. 112",
+        "features": "1 beds,None baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2055, Rue du Fort, app. 413",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "679, 41e Avenue",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2238, Rue du Souvenir, app. 403",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2000, boulevard  René-Lévesque Ouest, app. 1004",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2229, Avenue  Girouard",
+        "features": "3 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "11816, Rue  De Saint-Réal",
+        "features": "1 beds,1 baths",
+        "price": "$795/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "7112, boulevard  Lacordaire",
+        "features": "3 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1000, Rue  Ottawa, app. 337",
+        "features": "1 beds,1 baths",
+        "price": "$1390/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3455, Rue  Aylmer, app. 404",
+        "features": "1 beds,1 baths",
+        "price": "$1409/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2744, Rue du Centre, app. 2",
+        "features": "1 beds,1 baths",
+        "price": "$1245/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "7532, Avenue  Stuart, app. 302",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "address": "1880, Rue  Jean-Leduc",
+        "features": "1 beds,1 baths",
+        "price": "$895/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1414, Rue  Chomedey, app. 225",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "615, 24e Avenue, app. A",
+        "features": "1 beds,1 baths",
+        "price": "$875/month"
+    },
+    {
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "address": "1442, Avenue  Yves-Thériault",
+        "features": "2 beds,2 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7000, Rue  Allard, app. 203",
+        "features": "1 beds,None baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "282, Rue  Saint-Philippe",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "8217, Rue  Birnam",
+        "features": "2 beds,1 baths",
+        "price": "$1280/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1055, Rue  Saint-Mathieu, app. 940",
+        "features": "1 beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "855, Rue  Egan, app. 3",
+        "features": "2 beds,1 baths",
+        "price": "$1195/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1000, Rue  Ottawa, app. 1110",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4980, Rue  Buchan, app. 515",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "500, Rue  Saint-Paul Est, app. 12",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "1560, Rue  De Salaberry, app. 03",
+        "features": "2 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "456, Rue  De La Gauchetière Ouest, app. 510",
+        "features": "1 beds,None baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5175, Avenue de Courtrai, app. 410",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "297, Rue du Shannon, app. 603",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2244, Rue  Harmony, app. 104",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1190, Rue  MacKay, app. 504",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1172, Rue  Saint-Mathieu, app. A",
+        "features": "2 beds,1 baths",
+        "price": "$1390/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "950, Rue  Notre-Dame Ouest, app. 444",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "171, 9e Avenue",
+        "features": "2 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1210, Rue  Saint-Antoine Est, app. 314",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "2045, Rue  Notre-Dame, app. 101",
+        "features": "3 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1800, boulevard  René-Lévesque Ouest, app. 316",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1225, Rue  Notre-Dame Ouest, app. 508",
+        "features": "1 beds,1 baths",
+        "price": "$1390/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "101, Rue  Murray, app. 311",
+        "features": "1 beds,1 baths",
+        "price": "$1360/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4570, Chemin  Queen-Mary, app. 105",
+        "features": "1 beds,1 baths",
+        "price": "$1425/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1077, Rue  Saint-Mathieu, app. 766",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6740, boulevard  Décarie, app. 210",
+        "features": "1 beds,None baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "6580, Rue  Laurendeau",
+        "features": "3 beds,1 baths",
+        "price": "$1280/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "700, Rue  Saint-Paul Ouest, app. 1405",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1450, boulevard  René-Lévesque Ouest, app. #160",
+        "features": "None beds,None baths",
+        "price": "$300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "925, boulevard  René-Lévesque Est, app. 306",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1000, Rue  Ottawa, app. 431",
+        "features": "1 beds,1 baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "941, Avenue de Melrose",
+        "features": "2 beds,1 baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "91B, Rue  Turgeon",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Pierrefonds-Roxboro)",
+        "address": "14589, Rue  Aumais, app. 6",
+        "features": "2 beds,1 baths",
+        "price": "$249900/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1190, Rue  MacKay, app. 412",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "919, Avenue  Duluth Est",
+        "features": "1 beds,1 baths",
+        "price": "$1275/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2000, boulevard  René-Lévesque Ouest, app. 504",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1188, Avenue  Union, app. 1202",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4715, Chemin  Queen-Mary, app. 15",
+        "features": "1 beds,1 baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3550, Rue  Jeanne-Mance, app. 807",
+        "features": "1 beds,1 baths",
+        "price": "$1320/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "4715, 18e Avenue, app. 202",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1849, Avenue  Lincoln, app. 1C",
+        "features": "1 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6740, boulevard  Décarie, app. 505",
+        "features": "1 beds,None baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "10150, Place de l'Acadie, app. 103",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1199, Rue  Bishop, app. 206",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1212, Rue  Bishop, app. 503",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2307, Avenue  Walkley",
+        "features": "3 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1076, Rue  Anderson, app. 201",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "125, Rue  Chabanel Ouest, app. 503",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "9397, Rue  Clément, app. 2",
+        "features": "1 beds,1 baths",
+        "price": "$1080/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1188, Rue  Saint-Antoine Ouest, app. 3311",
+        "features": "1 beds,None baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1450, boulevard  René-Lévesque Ouest, app. 1914",
+        "features": "1 beds,None baths",
+        "price": "$1325/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "900, Rue  Saint-Philippe, app. 101",
+        "features": "None beds,None baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "705, Rue  William, app. 703",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3495, Rue  Chapleau, app. 3",
+        "features": "2 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "555, Rue  Jarry Est, app. 304",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1450, boulevard  René-Lévesque Ouest, app. P180",
+        "features": "None beds,None baths",
+        "price": "$250/month"
+    },
+    {
+        "city": "Montréal (Pierrefonds-Roxboro)",
+        "address": "5059, Rue des Maçons",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2300, Rue  Saint-Mathieu, app. 206",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1500, Rue des Bassins, app. 628",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Pierrefonds-Roxboro)",
+        "address": "16709, boulevard de Pierrefonds, app. 302",
+        "features": "2 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "5855, Rue de Verdun, app. 1",
+        "features": "1 beds,None baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2055, Rue du Fort, app. 507",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "7514, Rue  Durocher, app. 10",
+        "features": "1 beds,1 baths",
+        "price": "$779/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "5436, 14e Avenue",
+        "features": "2 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3823A, Avenue  Prud'homme",
+        "features": "1 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "700, Rue  Saint-Paul Ouest, app. 329",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "8768A, Rue  Tardif",
+        "features": "1 beds,None baths",
+        "price": "$675/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 1E",
+        "features": "1 beds,1 baths",
+        "price": "$1125/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1550, Rue des Bassins, app. 312",
+        "features": "1 beds,None baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2238, Rue du Souvenir, app. 303",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3300, Avenue  Troie, app. 310",
+        "features": "1 beds,1 baths",
+        "price": "$1480/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "10332, Rue  Paul-Comtois, app. 102",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1800, boulevard  René-Lévesque Ouest, app. 908",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "4200, Rue  Saint-Ambroise, app. 313",
+        "features": "1 beds,None baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "934, Rue  Roy Est",
+        "features": "1 beds,None baths",
+        "price": "$269000/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "5130, boulevard  Pie-IX",
+        "features": "3 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1265, Rue  Lambert-Closse, app. 807",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "5321, Rue  Saint-Denis, app. 001",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Montréal-Nord)",
+        "address": "12092, Avenue  Lamoureux",
+        "features": "2 beds,1 baths",
+        "price": "$825/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 1F",
+        "features": "1 beds,1 baths",
+        "price": "$1175/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2300, Rue  Saint-Mathieu, app. 1608",
+        "features": "1 beds,None baths",
+        "price": "$1195/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1205, Rue  MacKay, app. 709",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "630, Rue  William, app. 821",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1800, boulevard  René-Lévesque Ouest, app. 712",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5999, Avenue de Monkland, app. 1002",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Montréal-Nord)",
+        "address": "6474, boulevard  Maurice-Duplessis, app. 6",
+        "features": "2 beds,1 baths",
+        "price": "$885/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "905S, Avenue  Sainte-Croix",
+        "features": "\r\n                     beds,None baths",
+        "price": "$16900/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "228, Rue  Murray",
+        "features": "3 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "4715, Rue  Sainte-Émilie",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2004, boulevard  Saint-Laurent, app. 206",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3493, boulevard  Décarie",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "6900, boulevard  Newman, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "5190, Rue  Drolet, app. 4",
+        "features": "2 beds,1 baths",
+        "price": "$1290/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7000, Rue  Allard, app. 645",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2135, Rue  Dubois",
+        "features": "2 beds,1 baths",
+        "price": "$900/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "1900, boulevard  Angrignon, app. 408",
+        "features": "1 beds,None baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5999, Avenue de Monkland, app. 1009",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4995, Avenue  Walkley",
+        "features": "2 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3577, Avenue  Atwater, app. 419",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5999, Avenue de Monkland, app. 416",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Anjou)",
+        "address": "7360, Rue  Saint-Zotique Est, app. 207",
+        "features": "2 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2744, Rue du Centre, app. 7",
+        "features": "1 beds,1 baths",
+        "price": "$1345/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Crescent, app. 1102",
+        "features": "1 beds,None baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6435, boulevard  De Maisonneuve Ouest, app. 6",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "10397, Rue  Saint-Hubert",
+        "features": "3 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Jacques, app. 1804",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1155, Rue de la Montagne, app. 404",
+        "features": "1 beds,None baths",
+        "price": "$320000/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3489, Rue  Stanley, app. 102",
+        "features": "1 beds,1 baths",
+        "price": "$1180/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "5077, Rue  Chambord",
+        "features": "1 beds,1 baths",
+        "price": "$1390/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1800, boulevard  René-Lévesque Ouest, app. 714",
+        "features": "1 beds,None baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Montréal-Nord)",
+        "address": "12067, boulevard  Lacordaire",
+        "features": "2 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "765, Rue  Bourget, app. 209",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "2453, Rue  Alice-Nolin",
+        "features": "2 beds,1 baths",
+        "price": "$900/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2105, Rue  Chomedey, app. 021",
+        "features": "1 beds,1 baths",
+        "price": "$1454/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4312, Avenue  Papineau, app. 102",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "3115, Avenue  Ernest-Hemingway, app. 207",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4448, Rue  Garnier",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "700, Rue  Saint-Paul Ouest, app. 335",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5025, Rue  Paré, app. 713",
+        "features": "2 beds,1 baths",
+        "price": "$1485/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Jacques, app. 2106",
+        "features": "1 beds,1 baths",
+        "price": "$419000/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1199, Rue  Bishop, app. 204",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "1110, Rue  Saint-Louis",
+        "features": "3 beds,1 baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1000, Rue  Ottawa, app. 801",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2134, Rue  Le Caron, app. 303",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1550, Rue des Bassins, app. 118",
+        "features": "1 beds,None baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "5369, Rue  Wellington",
+        "features": "1 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "91, Rue  Bourget",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "5855, Rue de Verdun, app. 19",
+        "features": "1 beds,1 baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 4N",
+        "features": "1 beds,1 baths",
+        "price": "$1275/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "1601, Rue  Viola-Desmond, app. 615",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "900, Rue  Sherbrooke Ouest, app. 41",
+        "features": "1 beds,1 baths",
+        "price": "$900/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1010, Rue  Sainte-Catherine Est, app. 410",
+        "features": "1 beds,1 baths",
+        "price": "$1490/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "738, Rue  Egan",
+        "features": "2 beds,1 baths",
+        "price": "$1275/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "441, Avenue du Président-Kennedy, app. 601",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "2740, Avenue  Jeanne-d'Arc, app. 1",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1155, Rue de la Montagne, app. 606",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1248, Avenue de l'Hôtel-de-Ville, app. 405",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "700, Rue  Saint-Paul Ouest, app. 704",
+        "features": "1 beds,None baths",
+        "price": "$1245/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5077, Rue  Paré, app. 508",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "532, 38e Avenue",
+        "features": "1 beds,1 baths",
+        "price": "$900/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "3949, Rue  Lanouette, app. 1",
+        "features": "2 beds,1 baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2238, Rue du Souvenir, app. 302",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5377, Avenue  King-Edward",
+        "features": "3 beds,1 baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "3949, Rue  Lanouette, app. 4",
+        "features": "2 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1800, boulevard  René-Lévesque Ouest, app. 1408",
+        "features": "1 beds,None baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "1161, Croissant du Collège, app. 5",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1239, Rue  Drummond, app. 907",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4959, Rue  Jean-Talon Ouest, app. 410",
+        "features": "1 beds,1 baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "6507, 44e Avenue",
+        "features": "1 beds,1 baths",
+        "price": "$900/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "88, Rue  Charlotte, app. 502",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1375, Rue des Bassins, app. 510",
+        "features": "1 beds,1 baths",
+        "price": "$1449/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7051, Rue  Allard, app. 603",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1188, Avenue  Union, app. 1405",
+        "features": "1 beds,None baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "1814, Rue du Pirée",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1650, boulevard  René-Lévesque Ouest, app. 1010",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "80, Rue  Saint-Viateur Est, app. 302",
+        "features": "1 beds,None baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4599, Avenue  Clanranald, app. 510",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6740, boulevard  Décarie, app. 405",
+        "features": "1 beds,None baths",
+        "price": "$985/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "3632, Rue  Dézéry",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "4422, boulevard des Grandes-Prairies",
+        "features": "3 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "700, Rue  Saint-Paul Ouest, app. 935",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "1251, Avenue du Mont-Royal Est, app. 1",
+        "features": "1 beds,None baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "address": "12500, Avenue  Pierre-Blanchet",
+        "features": "1 beds,1 baths",
+        "price": "$900/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Jacques, app. 208",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1155, Rue de la Montagne, app. 203",
+        "features": "1 beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3555, Chemin de la Côte-des-Neiges, app. 128",
+        "features": "1 beds,2 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1010, Rue  William, app. 708",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "629, 24e Avenue",
+        "features": "2 beds,1 baths",
+        "price": "$995/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2405, Rue  Parthenais, app. 4",
+        "features": "1 beds,1 baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1239, Rue  Drummond, app. 1104",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4205, Rue  Saint-Denis, app. 207",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "888, Rue  Wellington, app. 711",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1800, boulevard  René-Lévesque Ouest, app. 1214",
+        "features": "1 beds,None baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "7145, Rue  Clark",
+        "features": "1 beds,1 baths",
+        "price": "$995/month"
+    },
+    {
+        "city": "Montréal (Pierrefonds-Roxboro)",
+        "address": "11131, Rue  Meighen, app. 201",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1, boulevard  De Maisonneuve Ouest, app. 311",
+        "features": "1 beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1892, Rue  Wellington, app. 103",
+        "features": "1 beds,2 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4270, Rue  Fullum",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3540, Rue  Durocher, app. 1B",
+        "features": "1 beds,1 baths",
+        "price": "$1325/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3470, Rue  Simpson, app. 510",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "7130B, 1re Avenue",
+        "features": "1 beds,1 baths",
+        "price": "$750/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "235, Rue  Peel, app. 1506B",
+        "features": "1 beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1077, Rue  Saint-Mathieu, app. 1264",
+        "features": "1 beds,2 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "825, boulevard  René-Lévesque Est, app. 503",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2118, Rue  Hall",
+        "features": "4 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1409, Rue  Towers, app. 1",
+        "features": "2 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2020, boulevard  René-Lévesque Ouest, app. 306",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "3001, Rue  Dandurand, app. 5",
+        "features": "2 beds,1 baths",
+        "price": "$1425/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2238, Rue du Souvenir, app. 402",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "350, boulevard  De Maisonneuve Ouest, app. S238",
+        "features": "None beds,None baths",
+        "price": "$225/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2238, Rue du Souvenir, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Montréal-Nord)",
+        "address": "10793, Avenue  Éthier, app. 4",
+        "features": "1 beds,1 baths",
+        "price": "$700/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "983, Rue  Stephens",
+        "features": "3 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2055, Avenue  Lincoln, app. 103",
+        "features": "1 beds,1 baths",
+        "price": "$1385/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "635, Rue  Saint-Maurice, app. 210",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "550, 38e Avenue, app. 1",
+        "features": "3 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "6680, Rue  Pierre-Auger",
+        "features": "2 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "700, Rue  Saint-Paul Ouest, app. 603",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2475, Avenue  Walkley, app. 7",
+        "features": "1 beds,1 baths",
+        "price": "$850/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1010, Rue  William, app. 327",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1077, Rue  Saint-Mathieu, app. 960",
+        "features": "1 beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "1558, Rue  De Salaberry",
+        "features": "1 beds,1 baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "211 - 4590, Chemin  Queen-Mary",
+        "features": "1 beds,1 baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "83, Avenue  Alepin",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1414, Rue  Chomedey, app. 648",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "3959, Rue  Lanouette, app. 5",
+        "features": "2 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "71, Rue  Duke, app. 608",
+        "features": "1 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "5020, Rue  Sainte-Clotilde",
+        "features": "2 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5353, Avenue  King-Edward",
+        "features": "3 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1400, Avenue des Pins Ouest, app. 801",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "965, Avenue  Sainte-Croix, app. 3",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2105, Rue  Chomedey, app. 001",
+        "features": "1 beds,1 baths",
+        "price": "$1454/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "2250, Rue  Ward, app. 405",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1444, Rue  Saint-Mathieu, app. 303",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1500, Rue des Bassins, app. 428",
+        "features": "1 beds,1 baths",
+        "price": "$1460/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5914A, Avenue  McLynn",
+        "features": "1 beds,1 baths",
+        "price": "$650/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "6867, Rue  Lacroix, app. 6",
+        "features": "1 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3964, Rue  Saint-Denis, app. 201",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "185, Rue du Séminaire, app. 104",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "8633, Avenue  Bloomfield, app. 1",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "5109, Rue  Ragueneau",
+        "features": "3 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "7091A, Avenue  Musset",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "5005, Rue  Duchesneau",
+        "features": "2 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "2125, Rue  Remembrance, app. 503",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4942, Avenue  Randall",
+        "features": "3 beds,1 baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1228, Rue des Bassins, app. 703",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2218, Rue  Quesnel",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "869, Avenue  Viger Est, app. 408",
+        "features": "1 beds,None baths",
+        "price": "$1320/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6740, boulevard  Décarie, app. 411",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "6900, boulevard  Newman, app. 503",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "6840, Avenue des Érables",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2071, Avenue de Clifton, app. 3",
+        "features": "2 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "615, 24e Avenue, app. 3",
+        "features": "1 beds,1 baths",
+        "price": "$895/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 4L",
+        "features": "1 beds,1 baths",
+        "price": "$1275/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "15, Rue  Notre-Dame Ouest, app. 303",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "366, Rue  Mayor, app. 602",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1444, Rue  Saint-Mathieu, app. 301",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "445, Avenue  Viger Ouest, app. 514",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "8541, Rue  Hochelaga, app. 6",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "3810, Rue  Saint-Antoine Ouest, app. 118",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "7700, Rue du Mans, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3566, Rue  Clark, app. 2",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "224A, Rue  Jean-Talon Est, app. 302",
+        "features": "2 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "288, Rue  Ann, app. 808",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2475, Avenue  Walkley, app. 9",
+        "features": "1 beds,1 baths",
+        "price": "$750/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "3555, Rue  Des Lacquiers, app. 405",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1155, Rue de la Montagne, app. 1002",
+        "features": "1 beds,None baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "8220, Rue  Birnam, app. 3",
+        "features": "3 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3300, Avenue  Troie, app. 712",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2100, boulevard  Saint-Laurent, app. 305",
+        "features": "1 beds,None baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1020, Rue  De Bleury, app. 418",
+        "features": "1 beds,1 baths",
+        "price": "$1370/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3460, Rue  Simpson, app. 308",
+        "features": "2 beds,1 baths",
+        "price": "$299000/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "350, Rue  Eleanor, app. 314",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "8541, Rue  Hochelaga, app. 4",
+        "features": "1 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "6829, Avenue  De Montmagny",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1800, boulevard  René-Lévesque Ouest, app. 502",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1450P, boulevard  René-Lévesque Ouest",
+        "features": "\r\n                     beds,None baths",
+        "price": "$250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1444, Rue  Saint-Mathieu, app. 302",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2023, Avenue  Papineau, app. 203",
+        "features": "1 beds,None baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3546, Rue  Durocher, app. 4C",
+        "features": "1 beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "4280, Rue  Bélanger, app. 4",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "7786, Avenue  De L'Épée",
+        "features": "2 beds,1 baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "6448, Rue  Beaulieu",
+        "features": "2 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Alexandre, app. 619",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "5052 - 5060, Avenue du Parc, app. 1",
+        "features": "1 beds,None baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Outremont)",
+        "address": "335S, Chemin de la Côte-Sainte-Catherine",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "5221A, boulevard  Robert",
+        "features": "2 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "6247, Rue de Villebois, app. A",
+        "features": "1 beds,1 baths",
+        "price": "$700/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "4729A, Rue  Sainte-Émilie",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1935, Rue  Tupper, app. 8",
+        "features": "1 beds,1 baths",
+        "price": "$1280/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "4991, Rue de Paisley, app. 1",
+        "features": "2 beds,1 baths",
+        "price": "$925/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "225, Rue de la Montagne, app. 718",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "address": "12558, Rue  Gertrude-Gendreau",
+        "features": "3 beds,2 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "6316, Rue  D'Aragon",
+        "features": "3 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4555, Avenue  Bonavista, app. 504",
+        "features": "1 beds,1 baths",
+        "price": "$1430/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "1320, Rue  Cardinal",
+        "features": "2 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1190, Rue  MacKay, app. 312",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "109, Rue  Charlotte, app. 104",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5265, Avenue de Courtrai, app. 903",
+        "features": "1 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "380, Avenue  Ash",
+        "features": "2 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "3272, Rue  Bélanger",
+        "features": "2 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2525, Avenue des Érables, app. 205",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "350, Rue  Eleanor, app. 416",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1239, Rue  Drummond, app. 602",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "3043, Rue  Sherbrooke Est, app. 229",
+        "features": "1 beds,1 baths",
+        "price": "$1399/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4205, Rue  Saint-Denis, app. 212",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2835, Rue  Saint-Charles, app. 103",
+        "features": "1 beds,2 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Montréal-Nord)",
+        "address": "10770, Avenue  Hénault",
+        "features": "3 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "1213, Rue  Woodland, app. 1",
+        "features": "2 beds,1 baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5387, Avenue  Connaught",
+        "features": "3 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "630, Rue  William, app. 811",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "36, 5e Avenue",
+        "features": "1 beds,1 baths",
+        "price": "$800/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "301, Rue  Bourgeoys, app. 2",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "6608, 41e Avenue",
+        "features": "3 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1450, boulevard  René-Lévesque Ouest, app. 2114",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "5805A, Avenue  De Lorimier",
+        "features": "1 beds,1 baths",
+        "price": "$900/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "2045, Rue  Notre-Dame, app. 102",
+        "features": "3 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5200, Avenue  Gatineau, app. 502",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "142, 11e Avenue",
+        "features": "2 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "120, 5e Avenue",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "950, Rue  Notre-Dame Ouest, app. 241",
+        "features": "1 beds,1 baths",
+        "price": "$1445/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4814, Avenue  Patricia",
+        "features": "2 beds,1 baths",
+        "price": "$1430/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "7155, Rue  Beaulieu",
+        "features": "2 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5150, Rue  Buchan, app. 31007",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1000, Rue  Ottawa, app. 228",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1155, Rue  Guy, app. 420",
+        "features": "1 beds,None baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2527, Rue de Rouen, app. 2",
+        "features": "2 beds,2 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "2355, Rue  Wilfrid-Reid, app. 511",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "190, Rue  Murray, app. 320",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1325, Rue  Saint-André, app. 209",
+        "features": "1 beds,1 baths",
+        "price": "$1370/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2118, Rue  Saint-Dominique, app. 403",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "297, Rue du Shannon, app. 306",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1020, Rue  De Bleury, app. 416",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1330, Rue  Olier, app. 1004",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1235, Rue  Bishop, app. 424",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1444, Rue  Saint-Mathieu, app. 304",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1248, Avenue de l'Hôtel-de-Ville, app. 417",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "2045, Rue  Notre-Dame, app. 001",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "10050, Place de l'Acadie, app. 940",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "111, 7e Avenue, app. 301",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "6635, Rue  Saint-André, app. 100",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1414, Rue  Chomedey, app. 541",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Alexandre, app. 321",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "425, Rue  Sainte-Hélène, app. 506",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "4244, boulevard  Gouin Ouest",
+        "features": "1 beds,1 baths",
+        "price": "$1380/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "701, Rue  Irène, app. 104",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1428, Avenue  Overdale, app. 305",
+        "features": "1 beds,None baths",
+        "price": "$1210/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1449, Rue  Saint-Alexandre, app. 706",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4547A, Avenue du Parc",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Outremont)",
+        "address": "1085, Avenue  Pratt, app. 107",
+        "features": "1 beds,1 baths",
+        "price": "$1440/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1414, Rue  Chomedey, app. 320",
+        "features": "1 beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7016, Rue  Marie-Rollet, app. 3B",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1450, boulevard  René-Lévesque Ouest, app. 2501",
+        "features": "1 beds,None baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 2L",
+        "features": "1 beds,1 baths",
+        "price": "$1125/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "8541, Rue  Hochelaga, app. 5",
+        "features": "1 beds,1 baths",
+        "price": "$900/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 2A",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1575, Avenue  Summerhill, app. 109",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Jacques, app. 606",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3475, Avenue  Ridgewood, app. 205",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "460, 19e Avenue, app. 112",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "630, Rue  William, app. 525",
+        "features": "1 beds,1 baths",
+        "price": "$1325/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "5261, Rue  Jeanne-Mance",
+        "features": "1 beds,1 baths",
+        "price": "$1325/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "550, Rue  Jean-D'Estrées, app. 1206",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "9122 - 9124, Rue  Verville, app. 9124",
+        "features": "3 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1190, Rue  MacKay, app. 410",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "425, Rue  Sainte-Hélène, app. 501",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "1752, Rue  Hartenstein",
+        "features": "3 beds,1 baths",
+        "price": "$1390/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1207B, boulevard  De Maisonneuve Est",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "777, 11e Avenue",
+        "features": "4 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1665, boulevard  Desmarchais, app. 3",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5481, Chemin  Queen-Mary, app. 401",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "3810, Rue  Saint-Antoine Ouest, app. 209",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Pierrefonds-Roxboro)",
+        "address": "5055, Rue des Maçons",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "350, Rue  Eleanor, app. 307",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "7132, 1re Avenue",
+        "features": "1 beds,1 baths",
+        "price": "$990/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "635, Rue  Saint-Maurice, app. 204",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "5096, Rue  Fabre",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 1C",
+        "features": "1 beds,1 baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "3001, Rue  Dandurand, app. 4",
+        "features": "2 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2456, boulevard  De Maisonneuve Est",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "60, Rue  Jean-Talon Ouest, app. 204",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1061, Rue  Saint-Alexandre, app. 1010",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2064, Avenue  Beaconsfield",
+        "features": "3 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2208, Avenue  Regent, app. 8",
+        "features": "2 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2211, boulevard  Édouard-Montpetit, app. 10",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "4991, Rue de Paisley, app. 4",
+        "features": "2 beds,1 baths",
+        "price": "$850/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7815, Rue  Tétrault",
+        "features": "3 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1414, Rue  Chomedey, app. 505",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5161, Chemin de la Côte-des-Neiges, app. 2",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3546, Rue  Durocher, app. 2C",
+        "features": "2 beds,None baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "555, boulevard  René-Lévesque Est, app. 103",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "400, Rue de l'Inspecteur, app. 105",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "71, Rue  Duke, app. 508",
+        "features": "1 beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5360, Rue  Sherbrooke Ouest, app. 318",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "5400, Rue  Baldwin",
+        "features": "3 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2030, Avenue d'Oxford",
+        "features": "1 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2130, Rue  Laforce, app. 518-412",
+        "features": "1 beds,1 baths",
+        "price": "$1310/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4841, Avenue  Harvard",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4827A, Avenue  Victoria",
+        "features": "2 beds,2 baths",
+        "price": "$1195/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1225, boulevard  Robert-Bourassa, app. 500",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "650, Rue  Jean-D'Estrées, app. 2004",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "950, Rue  Notre-Dame Ouest, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Outremont)",
+        "address": "811, Avenue  Davaar, app. 1",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3465, Avenue  Ridgewood, app. 207",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1665, boulevard  Desmarchais, app. 4",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "89, 1re Avenue",
+        "features": "2 beds,1 baths",
+        "price": "$1485/month"
+    },
+    {
+        "city": "Montréal (Anjou)",
+        "address": "7360, Rue  Saint-Zotique Est, app. 501",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1220, Rue  Crescent, app. 901",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "4004, Rue  Lacordaire",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "950, Rue  Notre-Dame Ouest, app. 740",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1218, Rue du Fort, app. 2",
+        "features": "1 beds,None baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5300, Place  Garland, app. 506",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "405, Rue  Sherbrooke Est, app. 405",
+        "features": "1 beds,1 baths",
+        "price": "$1290/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1055, Rue  Saint-Mathieu, app. 944",
+        "features": "1 beds,None baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "92, Rue  Sherbrooke Ouest, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1380/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6425, boulevard  De Maisonneuve Ouest, app. 1",
+        "features": "2 beds,1 baths",
+        "price": "$995/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1248, Avenue de l'Hôtel-de-Ville, app. 615",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "6750, Rue  Saint-Hubert",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1375, Rue des Bassins, app. 408",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1241, Rue  Guy, app. 201",
+        "features": "2 beds,1 baths",
+        "price": "$999/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1444, Rue  Saint-Mathieu, app. 201",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "416, Rue  Bédard",
+        "features": "3 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1188, Avenue  Union, app. 1106",
+        "features": "1 beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "88, Rue  Charlotte, app. 605",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1428, Avenue  Overdale, app. 318",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "635, Rue  Saint-Maurice, app. 604",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7191, Rue  Chouinard, app. F",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1248, Avenue de l'Hôtel-de-Ville, app. 303",
+        "features": "1 beds,1 baths",
+        "price": "$1305/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1239, Rue  Drummond, app. 903",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "4885, boulevard  Henri-Bourassa Ouest, app. 206",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1678, Rue  Grand Trunk, app. 4",
+        "features": "1 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "198, Rue  Ann, app. 304",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1535, Rue  Saint-Jacques, app. 5",
+        "features": "2 beds,1 baths",
+        "price": "$1490/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "380, 10e Avenue, app. 501",
+        "features": "2 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "3069, Rue  Villeray",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "405, Rue de la Concorde, app. 2803",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "7173, Rue  Saint-Hubert, app. 2",
+        "features": "2 beds,2 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "3510, Rue  Saint-Antoine, app. A01",
+        "features": "1 beds,1 baths",
+        "price": "$890/month"
+    },
+    {
+        "city": "Montréal (Anjou)",
+        "address": "6801, boulevard des Roseraies, app. 107",
+        "features": "2 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "366, Rue  Mayor, app. 509",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5833, Chemin de la Côte-des-Neiges, app. 404",
+        "features": "1 beds,None baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1409, Rue  Towers, app. 2",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "4717, Rue  Sainte-Émilie",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "365, Avenue du Mont-Royal Ouest, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "3969, Rue  Lanouette, app. 6",
+        "features": "3 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Pierrefonds-Roxboro)",
+        "address": "9480, Avenue  Cérès, app. 201",
+        "features": "2 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "378B, Avenue  Ash",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1172, Rue  Saint-Mathieu, app. B",
+        "features": "1 beds,1 baths",
+        "price": "$1490/month"
+    },
+    {
+        "city": "Montréal (Montréal-Nord)",
+        "address": "4240, Rue  Forest, app. 1",
+        "features": "1 beds,None baths",
+        "price": "$625/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "441, Avenue du Président-Kennedy, app. 207",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1010, Rue  William, app. 417",
+        "features": "1 beds,None baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3475, Avenue  Ridgewood, app. 203",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "2190, Rue  Préfontaine, app. 311",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5475, Chemin  Queen-Mary, app. 402",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "92, Rue  Sherbrooke Ouest, app. SS1",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1935, Rue  Tupper, app. 17",
+        "features": "1 beds,1 baths",
+        "price": "$1320/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1644, Rue  Notre-Dame Ouest, app. B",
+        "features": "2 beds,1 baths",
+        "price": "$1480/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1414, Rue  Chomedey, app. 433",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "1251, Avenue du Mont-Royal Est, app. 3",
+        "features": "1 beds,None baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1800, boulevard  René-Lévesque Ouest, app. 407",
+        "features": "1 beds,1 baths",
+        "price": "$1499/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "297, Rue du Shannon, app. 608",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2139, Rue  Denonville",
+        "features": "2 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4935, Chemin de la Côte-des-Neiges, app. 2",
+        "features": "1 beds,1 baths",
+        "price": "$995/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "790, Rue  Rose-de-Lima, app. 349",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2744, Rue du Centre, app. 1",
+        "features": "1 beds,None baths",
+        "price": "$995/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 2B",
+        "features": "1 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "5319, Rue  Saint-Denis, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1420/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1265, Rue  Saint-André, app. 102",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1960, Rue  Wellington, app. 306",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "8541, Rue  Hochelaga, app. 2",
+        "features": "1 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "9157, 6e Avenue",
+        "features": "3 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5800, Chemin  Upper-Lachine, app. 208",
+        "features": "1 beds,1 baths",
+        "price": "$825/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2855, Rue du Centre, app. 408",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "2665, Rue  Rathwell, app. 1",
+        "features": "2 beds,1 baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1275, Rue  Plessis, app. 105",
+        "features": "1 beds,None baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (Montréal-Nord)",
+        "address": "6995, boulevard  Gouin Est, app. 510",
+        "features": "2 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "200, Rue  Meloche",
+        "features": "3 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "7532, Avenue  Stuart, app. 102",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2117G, Rue  Tupper",
+        "features": "None beds,None baths",
+        "price": "$250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Alexandre, app. 214",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "3001, Rue  Dandurand, app. 2",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7259, Rue  Chouinard, app. D",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Pierrefonds-Roxboro)",
+        "address": "5057, Rue des Maçons",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3300, Avenue  Troie, app. 207",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 1D",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2130, Rue  Laforce, app. 526-608",
+        "features": "1 beds,1 baths",
+        "price": "$1370/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "2272, Rue  Victoria, app. 3",
+        "features": "2 beds,2 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (L'Île-Bizard/Sainte-Geneviève)",
+        "address": "16647, boulevard  Pierrefonds, app. 101",
+        "features": "2 beds,2 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1450, Rue  Springland, app. 5",
+        "features": "1 beds,1 baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1865, Rue  Dufresne",
+        "features": "2 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1248, Avenue de l'Hôtel-de-Ville, app. 410",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1340, Rue  Olier, app. 307",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "address": "12018, Rue  Bellerive",
+        "features": "2 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2110, Rue  Clark, app. 6",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1055, Rue  Saint-Mathieu, app. 946",
+        "features": "1 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "2305, Rue  Remembrance, app. 515",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "6505, Rue  Fabre, app. 101",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "address": "145, Terrasse  Fleurie",
+        "features": "3 beds,2 baths",
+        "price": "$970/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4239, Rue  Jean-Talon Ouest, app. 907",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3600, Avenue  Van Horne, app. 209",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "6550, boulevard  Henri-Bourassa Ouest, app. 606",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "7361, 17e Avenue, app. 5",
+        "features": "2 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "3691, Rue  Wellington",
+        "features": "2 beds,1 baths",
+        "price": "$1275/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 1G",
+        "features": "1 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "1075, Rue  Valiquette",
+        "features": "2 beds,2 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "700, Rue  Saint-Paul Ouest, app. 433",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "4729, Rue  Sainte-Émilie",
+        "features": "1 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "801, Rue  Sherbrooke Est, app. 409",
+        "features": "1 beds,None baths",
+        "price": "$1190/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5515, Rue  Saint-Jacques, app. 305",
+        "features": "2 beds,2 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3480, Rue  Simpson, app. 502",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "985, Rue  Stephens",
+        "features": "3 beds,1 baths",
+        "price": "$1100/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4580, Chemin  Queen-Mary, app. 302",
+        "features": "1 beds,1 baths",
+        "price": "$1325/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1205, Rue  MacKay, app. 302",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "1959, Rue  De Chambly",
+        "features": "1 beds,1 baths",
+        "price": "$1330/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "111, Chemin de la Pointe-Nord, app. 214",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "644, 41e Avenue",
+        "features": "2 beds,1 baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2348, Rue  Hogan",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "9375, Rue  Rancourt",
+        "features": "2 beds,1 baths",
+        "price": "$970/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "185, Rue du Séminaire, app. 404",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1055, Rue  De La Gauchetière Est, app. 310",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4618, boulevard  Décarie",
+        "features": "1 beds,1 baths",
+        "price": "$680/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1288, Avenue des Canadiens-de-Montréal, app. P1-01",
+        "features": "None beds,None baths",
+        "price": "$300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "650, Rue  Notre-Dame Ouest, app. 404",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7684, Rue  Broadway, app. B",
+        "features": "2 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4959, Rue  Jean-Talon Ouest, app. 705",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1414, Rue  Chomedey, app. 420",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1444, Rue  Saint-Mathieu, app. 203",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "5705, boulevard  Gouin Ouest",
+        "features": "2 beds,1 baths",
+        "price": "$925/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "4885, boulevard  Henri-Bourassa Ouest, app. 200",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "267, Rue  Rachel Est, app. 114",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1800, boulevard  René-Lévesque Ouest, app. 1508",
+        "features": "1 beds,None baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1593, Rue  Clark",
+        "features": "1 beds,1 baths",
+        "price": "$200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1, boulevard  De Maisonneuve Ouest, app. 404",
+        "features": "1 beds,None baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "115, boulevard  Deguire, app. 107",
+        "features": "1 beds,None baths",
+        "price": "$1456/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "195, Rue  Peel, app. 1009",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2020, boulevard  René-Lévesque Ouest, app. 605",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "825, boulevard  René-Lévesque Est, app. 212",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1010, Rue  William, app. 517",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "2380, boulevard  Pie-IX, app. 2",
+        "features": "1 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1880, Rue de la Visitation, app. 17",
+        "features": "1 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Outremont)",
+        "address": "590, Avenue  Bloomfield, app. 23",
+        "features": "2 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4755, Avenue  Papineau, app. 103",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1207, Rue du Sussex",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6065, Rue  Sherbrooke Ouest, app. 5",
+        "features": "2 beds,1 baths",
+        "price": "$1499/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "5190, Rue  Drolet, app. 7",
+        "features": "1 beds,1 baths",
+        "price": "$925/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1809, Rue  Ontario Est",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4681, Rue  Garnier",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4935, Chemin de la Côte-des-Neiges, app. 6",
+        "features": "1 beds,1 baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4836, Rue  Chambord, app. 2",
+        "features": "2 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "740, 32e Avenue, app. 312",
+        "features": "1 beds,1 baths",
+        "price": "$1125/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Crescent, app. 501",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "106, Avenue  Hingston, app. 106",
+        "features": "2 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1188, Avenue  Union, app. 901",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "195, Rue  Peel, app. 1409",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1188, Rue  Saint-Antoine Ouest, app. 621",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1913, Rue  Plessis, app. APP. 7",
+        "features": "2 beds,1 baths",
+        "price": "$1385/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "1820, Rue  Victoria, app. 404",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",
+        "address": "10700, boulevard  Perras, app. 202",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "7650, Rue  Lespinay, app. 205",
+        "features": "1 beds,None baths",
+        "price": "$1139/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Alexandre, app. 624",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1248, Avenue de l'Hôtel-de-Ville, app. 224",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1150, Rue  Saint-Denis, app. 607",
+        "features": "1 beds,1 baths",
+        "price": "$1470/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3420, Place  Decelles, app. 12",
+        "features": "1 beds,1 baths",
+        "price": "$875/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "198, Rue  Ann, app. 607",
+        "features": "1 beds,1 baths",
+        "price": "$1399/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4980, Rue  Buchan, app. 609",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Anjou)",
+        "address": "7200, boulevard des Galeries-d'Anjou, app. 505",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1205S, Rue  MacKay",
+        "features": "None beds,None baths",
+        "price": "$220/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "4243, Rue de Bellechasse",
+        "features": "1 beds,1 baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1055, Rue  Saint-Mathieu, app. 750",
+        "features": "1 beds,None baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "700, Rue  Saint-Paul Ouest, app. 814",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Alexandre, app. 110",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 2E",
+        "features": "1 beds,1 baths",
+        "price": "$1075/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "738, Rue  Saint-Paul Ouest, app. 218",
+        "features": "1 beds,1 baths",
+        "price": "$1280/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3465, Chemin de la Côte-des-Neiges, app. 82",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1225, Rue  Notre-Dame Ouest, app. 307",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1, boulevard  De Maisonneuve Ouest, app. 213",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1188, Rue  Saint-Antoine Ouest, app. 402",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Mercier/Hochelaga-Maisonneuve)",
+        "address": "2104, Avenue  Jeanne-d'Arc",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1530, Rue  Saint-Antoine Ouest",
+        "features": "1 beds,1 baths",
+        "price": "$1275/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "3487, boulevard  Décarie, app. 2",
+        "features": "2 beds,2 baths",
+        "price": "$1210/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1375, Rue des Bassins, app. 308",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "1135, Rue  Marie-Anne Est",
+        "features": "1 beds,1 baths",
+        "price": "$975/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "2875, Rue  Jasmin",
+        "features": "1 beds,2 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1849, Avenue  Lincoln, app. 1D",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4205, Rue  Saint-Denis, app. 309",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1190, Rue  MacKay, app. 1206",
+        "features": "1 beds,1 baths",
+        "price": "$1280/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "7284, Rue  Beauchesne",
+        "features": "2 beds,1 baths",
+        "price": "$900/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4975, Rue  Jean-Talon Ouest, app. 605",
+        "features": "2 beds,1 baths",
+        "price": "$1475/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2117, Rue  Tupper, app. 1002",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4959, Rue  Jean-Talon Ouest, app. 519",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "405, Rue  Sherbrooke Est, app. 204",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "4280, Rue  Sainte-Philomène",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "71, Rue  Duke, app. 1019",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "442, Rue  Saint-Gabriel, app. 302B",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2055, Rue du Fort, app. 104",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4935, Chemin  Queen-Mary, app. 403",
+        "features": "1 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "700, Rue  Saint-Paul Ouest, app. 714",
+        "features": "1 beds,None baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "284, Rue  Saint-Philippe",
+        "features": "1 beds,1 baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (Rosemont/La Petite-Patrie)",
+        "address": "2530, Place  Michel-Brault, app. 524",
+        "features": "2 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "400, Rue de l'Inspecteur, app. 123",
+        "features": "1 beds,1 baths",
+        "price": "$1389/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4980, Rue  Buchan, app. 307",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3621, Rue  University, app. APT 1",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "441, Avenue du Président-Kennedy, app. 907",
+        "features": "1 beds,None baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "350, Rue  Prince-Arthur Ouest, app. S1",
+        "features": "1 beds,None baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1640, Rue  Notre-Dame Ouest",
+        "features": "1 beds,1 baths",
+        "price": "$1390/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2060, Rue du Fort, app. 5",
+        "features": "1 beds,1 baths",
+        "price": "$995/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "6297A, Avenue de Vimy",
+        "features": "1 beds,1 baths",
+        "price": "$800/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 4E",
+        "features": "1 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1205, Rue  MacKay, app. 501",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Saint-Léonard)",
+        "address": "9194A, Rue  Émile-Nelligan",
+        "features": "1 beds,1 baths",
+        "price": "$700/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1248, Avenue de l'Hôtel-de-Ville, app. 307",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Lachine)",
+        "address": "115, 7e Avenue",
+        "features": "2 beds,1 baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "700, Rue  Saint-Paul Ouest, app. 914",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "135, Rue du Port, app. 200",
+        "features": "1 beds,None baths",
+        "price": "$795/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4107, boulevard  Saint-Laurent, app. 3",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2238, Rue du Souvenir, app. 102",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1325, Rue  Saint-André, app. 404",
+        "features": "1 beds,1 baths",
+        "price": "$1310/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "71, Rue  Duke, app. 610",
+        "features": "1 beds,None baths",
+        "price": "$1295/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "20, Rue  De La Gauchetière Est, app. 406",
+        "features": "1 beds,None baths",
+        "price": "$1175/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1235, Rue  Bishop, app. 205",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1, boulevard  De Maisonneuve Ouest, app. 205",
+        "features": "1 beds,1 baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "190, Rue  Murray, app. 612",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1700, Avenue  Papineau, app. 105",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "7020, Rue  Allard, app. 233",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ahuntsic-Cartierville)",
+        "address": "10523B, Rue  Saint-Hubert",
+        "features": "1 beds,None baths",
+        "price": "$600/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "2001, Avenue  Beaconsfield, app. 115",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5316, Place  Newman",
+        "features": "1 beds,1 baths",
+        "price": "$1000/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "13A, Rue  Jules-Verne",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5200, Avenue  Gatineau, app. B206",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1010, Rue  William, app. 203",
+        "features": "1 beds,1 baths",
+        "price": "$1395/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "25, Avenue des Pins Ouest, app. 549",
+        "features": "1 beds,1 baths",
+        "price": "$1128/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "400, Rue de l'Inspecteur, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Saint-Laurent)",
+        "address": "398, Rue  Ouimet, app. 110",
+        "features": "1 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1020, Rue  De Bleury, app. 412",
+        "features": "1 beds,1 baths",
+        "price": "$1380/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1450V, boulevard  René-Lévesque Ouest",
+        "features": "\r\n                     beds,None baths",
+        "price": "$300/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "400, Rue de l'Inspecteur, app. 223",
+        "features": "1 beds,1 baths",
+        "price": "$1499/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "235, Rue  Peel, app. 1212A",
+        "features": "1 beds,None baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1375, Rue des Bassins, app. 1510",
+        "features": "1 beds,1 baths",
+        "price": "$1380/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "4975, Rue  Jean-Talon Ouest, app. 1001",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1155, Rue de la Montagne, app. 3502",
+        "features": "1 beds,None baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3622, Rue  Clark, app. 5",
+        "features": "1 beds,None baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1190, Rue  MacKay, app. 411",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4821, boulevard  Saint-Laurent, app. 208A",
+        "features": "1 beds,1 baths",
+        "price": "$1325/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "7532, Avenue  Stuart, app. 202",
+        "features": "1 beds,1 baths",
+        "price": "$1375/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "366, Rue  Mayor, app. 709",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1188, Avenue  Union, app. 1418",
+        "features": "1 beds,None baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5065, Avenue  Westmore",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Verdun/Île-des-Soeurs)",
+        "address": "3032, boulevard  LaSalle, app. C",
+        "features": "1 beds,1 baths",
+        "price": "$1390/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "6550, boulevard  Monk, app. 3",
+        "features": "2 beds,1 baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3480, Rue  Simpson, app. 907",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2021, Avenue  Atwater, app. 2408",
+        "features": "1 beds,1 baths",
+        "price": "$1485/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "1085, Rue  Smith, app. 602",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1904, Rue  Plessis",
+        "features": "1 beds,2 baths",
+        "price": "$1450/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "15, Rue  Notre-Dame Ouest, app. 504",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "6900, boulevard  Newman, app. 103",
+        "features": "1 beds,1 baths",
+        "price": "$1150/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1188, Avenue  Union, app. 2007",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "4270, Avenue  Papineau, app. 301",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1200, Rue  Saint-Alexandre, app. 519",
+        "features": "1 beds,1 baths",
+        "price": "$1300/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1444, Rue  Saint-Mathieu, app. 204",
+        "features": "1 beds,1 baths",
+        "price": "$950/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "4723, Rue  Sainte-Émilie",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Pierrefonds-Roxboro)",
+        "address": "4925, Rue des Érables, app. 305",
+        "features": "1 beds,1 baths",
+        "price": "$1250/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "441, Avenue du Président-Kennedy, app. 705",
+        "features": "1 beds,1 baths",
+        "price": "$1390/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "2205, Rue  Saint-Marc, app. 2H",
+        "features": "2 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1225, Rue  Notre-Dame Ouest, app. 318",
+        "features": "1 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "5120, Rue  Sainte-Clotilde",
+        "features": "1 beds,1 baths",
+        "price": "$1050/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "3460, Rue  Simpson, app. 208",
+        "features": "1 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "1207 - 1211, boulevard  De Maisonneuve Est, app. 1207A",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3455, Rue  Aylmer, app. 1002",
+        "features": "1 beds,1 baths",
+        "price": "$1438/month"
+    },
+    {
+        "city": "Montréal (Villeray/Saint-Michel/Parc-Extension)",
+        "address": "8960, boulevard  Saint-Michel, app. 413",
+        "features": "1 beds,1 baths",
+        "price": "$1195/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "2710, Rue  Raudot",
+        "features": "3 beds,1 baths",
+        "price": "$1400/month"
+    },
+    {
+        "city": "Montréal (LaSalle)",
+        "address": "216, Rue  Larente",
+        "features": "1 beds,1 baths",
+        "price": "$595/month"
+    },
+    {
+        "city": "Montréal (Le Plateau-Mont-Royal)",
+        "address": "3852, Rue  Saint-Dominique, app. 3860B",
+        "features": "1 beds,1 baths",
+        "price": "$1225/month"
+    },
+    {
+        "city": "Montréal (Le Sud-Ouest)",
+        "address": "6112, Avenue  De Montmagny",
+        "features": "3 beds,1 baths",
+        "price": "$1500/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "456, Rue  De La Gauchetière Ouest, app. 1201",
+        "features": "1 beds,None baths",
+        "price": "$1350/month"
+    },
+    {
+        "city": "Montréal (Montréal-Nord)",
+        "address": "3581, boulevard  Gouin Est, app. 1407",
+        "features": "1 beds,1 baths",
+        "price": "$1495/month"
+    },
+    {
+        "city": "Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",
+        "address": "5200, Avenue  Gatineau, app. A304",
+        "features": "1 beds,1 baths",
+        "price": "$1200/month"
+    },
+    {
+        "city": "Montréal (Ville-Marie)",
+        "address": "630, Rue  William, app. 322",
+        "features": "1 beds,1 baths",
+        "price": "$1275/month"
+    }
+]

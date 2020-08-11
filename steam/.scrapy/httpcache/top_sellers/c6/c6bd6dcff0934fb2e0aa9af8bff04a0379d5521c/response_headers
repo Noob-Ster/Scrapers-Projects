@@ -1,0 +1,12 @@
+Server: nginx
+Content-Type: application/json; charset=utf-8
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache
+X-Frame-Options: DENY
+Vary: Accept-Encoding, Origin
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Mon, 03 Aug 2020 15:35:29 GMT
+Set-Cookie: browserid=2270329494351393674; expires=Tue, 03-Aug-2021 15:35:29 GMT; Max-Age=31536000; path=/; secure
+Set-Cookie: steamCountry=PK%7C378045cd37d3d279ff4bd0a95e583d99; path=/; secure
+Set-Cookie: sessionid=24d4f7f1d2de17daf56d6657; path=/; secure
